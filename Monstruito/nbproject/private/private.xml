@@ -3,8 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/°°bReN/Documents/NetBeansProjects/Monstruito/src/servidor/MonstruitoServer.java</file>
-            <file>file:/C:/Users/°°bReN/Documents/NetBeansProjects/Monstruito/src/cliente/MonstruitoGUI.java</file>
+            <file>file:/C:/Users/Jorge/Documents/ITAM/10mo/Distribuidos/Mountro/Monstruito/src/servidor/Monstruo.java</file>
+            <file>file:/C:/Users/Jorge/Documents/ITAM/10mo/Distribuidos/Mountro/Monstruito/src/servidor/MonstruitoServer.java</file>
+            <file>file:/C:/Users/Jorge/Documents/ITAM/10mo/Distribuidos/Mountro/Monstruito/src/servidor/MulticastServer.java</file>
+            <file>file:/C:/Users/Jorge/Documents/ITAM/10mo/Distribuidos/Mountro/Monstruito/src/cliente/Monstruito.java</file>
+            <file>file:/C:/Users/Jorge/Documents/ITAM/10mo/Distribuidos/Mountro/Monstruito/src/cliente/MonstruitoGUI.java</file>
         </group>
     </open-files>
 </project-private>
